@@ -1,0 +1,5 @@
+start cmd /k "python main_server.py 5000"
+start cmd /k "python main_client.py 5001"
+start cmd /k "python main_client.py 5002"
+start cmd /k "python main_client.py 5003"
+start cmd /k "python main_client.py 5004"
